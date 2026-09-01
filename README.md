@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/thushanksachin10/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0494-target-sum) |
+| [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/thushanksachin10/Leetcode/tree/master/0072-edit-distance) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
