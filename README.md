@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+## Sorting
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
