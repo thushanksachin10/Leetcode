@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3875-construct-uniform-parity-array-i](https://github.com/thushanksachin10/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/thushanksachin10/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
