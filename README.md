@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0494-target-sum) |
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Dynamic Programming
 |  |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/thushanksachin10/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/thushanksachin10/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Two Pointers
 |  |
@@ -72,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
