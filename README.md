@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/thushanksachin10/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/thushanksachin10/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/thushanksachin10/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/thushanksachin10/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -99,4 +100,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushanksachin10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
