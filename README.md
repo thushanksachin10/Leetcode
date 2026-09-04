@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thushanksachin10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/thushanksachin10/Leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/thushanksachin10/Leetcode/tree/master/1029-two-city-scheduling) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/thushanksachin10/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushanksachin10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/thushanksachin10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/thushanksachin10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
