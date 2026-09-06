@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thushanksachin10/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/thushanksachin10/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/thushanksachin10/Leetcode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/thushanksachin10/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/thushanksachin10/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0435-non-overlapping-intervals](https://github.com/thushanksachin10/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/thushanksachin10/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thushanksachin10/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thushanksachin10/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/thushanksachin10/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/thushanksachin10/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushanksachin10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/thushanksachin10/Leetcode/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushanksachin10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/thushanksachin10/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -138,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/thushanksachin10/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
