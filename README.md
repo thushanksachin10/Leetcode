@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushanksachin10/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/thushanksachin10/Leetcode/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/thushanksachin10/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/thushanksachin10/Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/thushanksachin10/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/thushanksachin10/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
