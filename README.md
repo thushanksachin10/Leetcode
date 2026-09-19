@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/thushanksachin10/Leetcode/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/thushanksachin10/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
